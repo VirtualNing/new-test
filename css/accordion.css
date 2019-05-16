@@ -1,0 +1,52 @@
+*{
+  padding: 0;margin: 0;width: 100%;height: 100%;
+}
+.container{
+  position: relative;width: 100%;height: 100%;background: url(../images/bg.jpg) no-repeat;
+  background-position: center;
+}
+.wrap{
+  position: absolute;top: 50%;left: 50%;width: 1210px;height: 438px;
+  margin-top: -219px;margin-left: -605px;border: 1px solid #ccc;
+}
+.list{
+  float: left;list-style: none;height: 438px;width: 86px;transition: all .8s linear;
+}
+.l1{
+  width: 866px;background: url(../images/pic1-on.jpg) no-repeat;
+  background-position: 86px 0;
+}
+.l2{
+  background: url(../images/pic2-on.jpg) no-repeat;
+  background-position: 86px 0;
+}
+.l3{
+  background: url(../images/pic3-on.jpg) no-repeat;
+  background-position: 86px 0;
+}
+.l4{
+  background: url(../images/pic4-on.jpg) no-repeat;
+  background-position: 86px 0;
+}
+.l5{
+  background: url(../images/pic5-on.jpg) no-repeat;
+  background-position: 86px 0;
+}
+.on{
+  width: 86px;height: 100%;
+}
+.c1{
+  background: url(../images/pic1.png);
+}
+.c2{
+  background: url(../images/pic2.png);
+}
+.c3{
+  background: url(../images/pic3.png);
+}
+.c4{
+  background: url(../images/pic4.png);
+}
+.c5{
+  background: url(../images/pic5.png);
+}
